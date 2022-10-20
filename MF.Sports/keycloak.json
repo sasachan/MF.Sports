@@ -1,0 +1,8 @@
+{
+  "realm": "ims-realm",
+  "auth-server-url": "http://localhost:8080/",
+  "ssl-required": "false",
+  "resource": "ims-client",
+  "public-client": true,
+  "confidential-port": 0
+}
